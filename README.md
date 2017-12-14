@@ -1,4 +1,4 @@
-Simple Website Crawl
+<h1>Simple Website Crawler</h1>
 
 
 The following repo is an extract of the article Building a simple crawler. It allows crawling from a URL and for a given number of bounce.
