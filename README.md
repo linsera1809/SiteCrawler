@@ -1,7 +1,7 @@
 <h1>Simple Website Crawler</h1>
 <br><br><font size="3" color="red">ref: https://gist.github.com/rascundampelcuf/663efb4f6c436d57492a7b967896f5e3#simple-website-crawler</font>
 
-The following repo is an extract of the article Building a simple crawler. It allows crawling from a URL and for a given number of bounce.
+<br>The following repo is an extract of the article Building a simple crawler. It allows crawling from a URL and for a given number of bounce.
 
 <h2>Basic Usage</h2>
 
